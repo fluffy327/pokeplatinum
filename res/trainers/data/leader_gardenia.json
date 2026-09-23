@@ -13,15 +13,15 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_TURTWIG",
+            "species": "SPECIES_GROTLE",
             "form": 0,
             "level": 20,
-            "item": "ITEM_NONE",
+            "item": null,
             "moves": [
-                "MOVE_GRASS_KNOT",
                 "MOVE_RAZOR_LEAF",
-                "MOVE_SUNNY_DAY",
-                "MOVE_REFLECT"
+                "MOVE_BITE",
+                "MOVE_BODY_SLAM",
+                "MOVE_REST"
             ],
             "iv_scale": 50,
             "ball_seal": 0
@@ -30,12 +30,12 @@
             "species": "SPECIES_CHERRIM",
             "form": 0,
             "level": 20,
-            "item": "ITEM_NONE",
+            "item": "ITEM_SITRUS_BERRY",
             "moves": [
-                "MOVE_GRASS_KNOT",
-                "MOVE_LEECH_SEED",
                 "MOVE_MAGICAL_LEAF",
-                "MOVE_SAFEGUARD"
+                "MOVE_ROLLOUT",
+                "MOVE_STUN_SPORE",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 50,
             "ball_seal": 0
@@ -46,10 +46,10 @@
             "level": 22,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
-                "MOVE_GRASS_KNOT",
+                "MOVE_MEGA_DRAIN",
                 "MOVE_MAGICAL_LEAF",
                 "MOVE_POISON_STING",
-                "MOVE_STUN_SPORE"
+                "MOVE_RAZOR_WIND"
             ],
             "iv_scale": 50,
             "ball_seal": 0
