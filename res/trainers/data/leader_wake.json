@@ -13,15 +13,15 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_GYARADOS",
+            "species": "SPECIES_PRINPLUP",
             "form": 0,
             "level": 33,
-            "item": "ITEM_NONE",
+            "item": "ITEM_EXPERT_BELT",
             "moves": [
-                "MOVE_WATERFALL",
                 "MOVE_BRINE",
-                "MOVE_BITE",
-                "MOVE_TWISTER"
+                "MOVE_ICE_BEAM",
+                "MOVE_GRASS_KNOT",
+                "MOVE_DRILL_PECK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,12 +30,26 @@
             "species": "SPECIES_QUAGSIRE",
             "form": 0,
             "level": 34,
-            "item": "ITEM_NONE",
+            "item": "ITEM_LEFTOVERS",
             "moves": [
-                "MOVE_MUD_SHOT",
-                "MOVE_ROCK_TOMB",
-                "MOVE_WATER_PULSE",
+                "MOVE_MUDDY_WATER",
+                "MOVE_MUD_BOMB",
+                "MOVE_SLUDGE_BOMB",
                 "MOVE_YAWN"
+            ],
+            "iv_scale": 150,
+            "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_GYARADOS",
+            "form": 0,
+            "level": 36,
+            "item": "ITEM_WACAN_BERRY",
+            "moves": [
+                "MOVE_WATERFALL",
+                "MOVE_ICE_FANG",
+                "MOVE_FIRE_BLAST",
+                "MOVE_TWISTER"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -44,12 +58,12 @@
             "species": "SPECIES_FLOATZEL",
             "form": 0,
             "level": 37,
-            "item": "ITEM_SITRUS_BERRY",
+            "item": "ITEM_RINDO_BERRY",
             "moves": [
                 "MOVE_BRINE",
-                "MOVE_ICE_FANG",
-                "MOVE_CRUNCH",
-                "MOVE_AQUA_JET"
+                "MOVE_ICE_PUNCH",
+                "MOVE_ROCK_TOMB",
+                "MOVE_CRUNCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
