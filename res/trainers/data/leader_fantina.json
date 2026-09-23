@@ -18,7 +18,7 @@
             "level": 24,
             "item": null,
             "moves": [
-                "MOVE_HEX",
+                "MOVE_ASTONISH",
                 "MOVE_SLEEP_TALK",
                 "MOVE_TOXIC",
                 "MOVE_REST"
@@ -32,7 +32,7 @@
             "level": 24,
             "item": "ITEM_ORAN_BERRY",
             "moves": [
-                "MOVE_HEX",
+                "MOVE_SHADOW_CLAW",
                 "MOVE_ICY_WIND",
                 "MOVE_DESTINY_BOND",
                 "MOVE_CONFUSE_RAY"
@@ -60,7 +60,7 @@
             "level": 26,
             "item": "ITEM_COLBUR_BERRY",
             "moves": [
-                "MOVE_HEX",
+                "MOVE_SHADOW_CLAW",
                 "MOVE_EXTRASENSORY",
                 "MOVE_MAGICAL_LEAF",
                 "MOVE_WILL_O_WISP"
