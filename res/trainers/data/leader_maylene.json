@@ -10,15 +10,29 @@
     "double_battle": false,
     "party": [
         {
+            "species": "SPECIES_MONFERNO",
+            "form": 0,
+            "level": 28,
+            "item": "ITEM_COBA_BERRY",
+            "moves": [
+                "MOVE_FLAME_WHEEL",
+                "MOVE_MACH_PUNCH",
+                "MOVE_GRASS_KNOT",
+                "MOVE_U_TURN"
+            ],
+            "iv_scale": 200,
+            "ball_seal": 0
+        },
+        {
             "species": "SPECIES_MEDITITE",
             "form": 0,
             "level": 28,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_DRAIN_PUNCH",
-                "MOVE_CONFUSION",
-                "MOVE_ROCK_TOMB",
-                "MOVE_FAKE_OUT"
+                "MOVE_PSYCHO_CUT",
+                "MOVE_FAKE_OUT",
+                "MOVE_REFLECT"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -27,12 +41,12 @@
             "species": "SPECIES_MACHOKE",
             "form": 0,
             "level": 29,
-            "item": "ITEM_NONE",
+            "item": "ITEM_PAYAPA_BERRY",
             "moves": [
-                "MOVE_KARATE_CHOP",
-                "MOVE_ROCK_TOMB",
-                "MOVE_STRENGTH",
-                "MOVE_FOCUS_ENERGY"
+                "MOVE_SUBMISSION",
+                "MOVE_FIRE_BLAST",
+                "MOVE_PAYBACK",
+                "MOVE_LIGHT_SCREEN"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -41,12 +55,12 @@
             "species": "SPECIES_LUCARIO",
             "form": 0,
             "level": 32,
-            "item": "ITEM_NONE",
+            "item": "ITEM_SITRUS_BERRY",
             "moves": [
                 "MOVE_DRAIN_PUNCH",
-                "MOVE_FORCE_PALM",
-                "MOVE_METAL_CLAW",
-                "MOVE_BONE_RUSH"
+                "MOVE_THUNDER_PUNCH",
+                "MOVE_WATER_PULSE",
+                "MOVE_CRUNCH"
             ],
             "iv_scale": 200,
             "ball_seal": 0
