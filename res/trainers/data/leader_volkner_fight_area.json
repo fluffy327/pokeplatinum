@@ -13,15 +13,29 @@
     "double_battle": false,
     "party": [
         {
+            "species": "SPECIES_ELECTIVIRE",
+            "form": 0,
+            "level": 58,
+            "item": "ITEM_SITRUS_BERRY",
+            "moves": [
+                "MOVE_THUNDER_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_FLAMETHROWER",
+                "MOVE_PSYCHIC"
+            ],
+            "iv_scale": 200,
+            "ball_seal": 14
+        },
+        {
             "species": "SPECIES_LUXRAY",
             "form": 0,
             "level": 56,
-            "item": "ITEM_NONE",
+            "item": "ITEM_SHUCA_BERRY",
             "moves": [
+                "MOVE_THUNDER_PUNCH",
                 "MOVE_ICE_FANG",
-                "MOVE_THUNDER_FANG",
-                "MOVE_CRUNCH",
-                "MOVE_FIRE_FANG"
+                "MOVE_SUPERPOWER",
+                "MOVE_CRUNCH"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -30,29 +44,15 @@
             "species": "SPECIES_JOLTEON",
             "form": 0,
             "level": 56,
-            "item": "ITEM_NONE",
+            "item": "ITEM_FOCUS_SASH",
             "moves": [
-                "MOVE_PIN_MISSILE",
-                "MOVE_CHARGE_BEAM",
-                "MOVE_DOUBLE_KICK",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_THUNDERBOLT",
+                "MOVE_SIGNAL_BEAM",
+                "MOVE_SHADOW_BALL",
+                "MOVE_HIDDEN_POWER"
             ],
             "iv_scale": 200,
             "ball_seal": 0
-        },
-        {
-            "species": "SPECIES_ELECTIVIRE",
-            "form": 0,
-            "level": 58,
-            "item": "ITEM_SITRUS_BERRY",
-            "moves": [
-                "MOVE_THUNDER_PUNCH",
-                "MOVE_FIRE_PUNCH",
-                "MOVE_BRICK_BREAK",
-                "MOVE_GIGA_IMPACT"
-            ],
-            "iv_scale": 200,
-            "ball_seal": 14
         }
     ],
     "messages": [
