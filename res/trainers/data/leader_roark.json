@@ -18,8 +18,10 @@
             "level": 12,
             "item": null,
             "moves": [
-                "MOVE_STEALTH_ROCK",
-                "MOVE_ROCK_THROW"
+                "MOVE_ROLLOUT",
+                "MOVE_MAGNITUDE",
+                "MOVE_TACKLE",
+                "MOVE_STEALTH_ROCK"
             ],
             "iv_scale": 50,
             "ball_seal": 0
@@ -30,9 +32,10 @@
             "level": 12,
             "item": null,
             "moves": [
-                "MOVE_STEALTH_ROCK",
-                "MOVE_ROCK_THROW",
-                "MOVE_SCREECH"
+                "MOVE_ROCK_TOMB",
+                "MOVE_SANDSTORM",
+                "MOVE_DRAGON_BREATH",
+                "MOVE_STEALTH_ROCK"
             ],
             "iv_scale": 50,
             "ball_seal": 0
@@ -43,9 +46,10 @@
             "level": 14,
             "item": null,
             "moves": [
+                "MOVE_ROCK_SMASH",
+                "MOVE_STEALTH_ROCK",
                 "MOVE_HEADBUTT",
-                "MOVE_PURSUIT",
-                "MOVE_LEER"
+                "MOVE_BITE"
             ],
             "iv_scale": 50,
             "ball_seal": 0
